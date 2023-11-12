@@ -1,0 +1,39 @@
+.result {
+    width: 100%;
+}
+
+body {
+  background-color: rgb(238, 229, 229);
+}
+button {
+  width: 150px;
+  height: 60px;
+  margin-right: 20px;
+  border-radius: 15px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  background-color: #096F3E;
+  color: white;
+  font-size: 16px;
+
+}
+
+#two {
+  background-color: #047094;
+}
+
+#three {
+  background-color: #546902;
+}
+
+p {
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+  text-align: center;
+  color: rgb(58, 57, 57);
+  font-family: serif;
+}
